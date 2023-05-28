@@ -1,4 +1,4 @@
-# Credit Risk Classification 
+# Credit Risk Classification Report
 
 ## Overview of the Analysis
 
@@ -21,8 +21,5 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * This model uses resampled data, our results show an improved model with precision, recall, and accuracy scores for the model staying at a high score of 1.00, this model improves on our accuracy from the previous model, but still our precision has not made an improvement and still yeilding the same results. 
 
 ## Summary
-
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
-* Which one seems to perform best? How do you know it performs best?
 * Our Second Machine Learning Model performed the best, we can see in the classsification report that our second model yielded a higher accuracy, high recall scores and averages, as well as high precision scores except that our high risk loan precision scores have still not improved. 
 * It is still important to predict the healthy loan borrowers and this model does that however, accuracy on models is also important and this model has a higher accuracy score for our high-risk borrower. 
